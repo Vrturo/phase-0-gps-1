@@ -6,3 +6,5 @@ some sort of code block
 ```
 
 [link](link.com)
+
+merge conflict
